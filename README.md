@@ -1,1 +1,1 @@
-# CatPhotoApp
+# Small Projects
